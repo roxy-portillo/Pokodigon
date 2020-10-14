@@ -1,0 +1,7 @@
+C:\Users\shini\Desktop\EjerciciosPOO-P2\bin\Debug\EjerciciosPOO-P2.exe.config
+C:\Users\shini\Desktop\EjerciciosPOO-P2\bin\Debug\EjerciciosPOO-P2.exe
+C:\Users\shini\Desktop\EjerciciosPOO-P2\bin\Debug\EjerciciosPOO-P2.pdb
+C:\Users\shini\Desktop\EjerciciosPOO-P2\obj\Debug\EjerciciosPOO-P2.csprojAssemblyReference.cache
+C:\Users\shini\Desktop\EjerciciosPOO-P2\obj\Debug\EjerciciosPOO-P2.csproj.CoreCompileInputs.cache
+C:\Users\shini\Desktop\EjerciciosPOO-P2\obj\Debug\EjerciciosPOO-P2.exe
+C:\Users\shini\Desktop\EjerciciosPOO-P2\obj\Debug\EjerciciosPOO-P2.pdb
